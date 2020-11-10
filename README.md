@@ -1,3 +1,7 @@
+![Image description](https://i1.faceprep.in/ProGrad/prograd-logo.png)
+
+# PROGRAD PROJECT BUILDER | NODE | REST API - PROUSERS
+
 ## Learning Goals
 
 In this exercise, you will learn how to create REST api end points:
